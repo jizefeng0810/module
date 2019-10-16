@@ -12,3 +12,6 @@ it log some information on screen		2019/10/7
 
 ## utils.py
 some function that ofen use		2019/10/10
+
+## TrAdaboost.py
+a transfer learning algorithm		2019/10/16
