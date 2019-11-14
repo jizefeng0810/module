@@ -15,3 +15,6 @@ a transfer learning algorithm		2019/10/16
 
 ## logger.py
 it log some information on screen		2019/10/30
+
+## check_gpu.py
+check gpu's number and gpu's usage		2019/11/14
