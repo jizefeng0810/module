@@ -48,7 +48,7 @@ def canConnect():
 
 if __name__ == "__main__":
     user = "322167"  # 输入账号
-    pw = "jzf1230."  # 输入密码
+    pw = "****"  # 输入密码
     while True:
         can_connect = canConnect()
         getCurrentTime = time.strftime('[%Y-%m-%d %H:%M:%S]', time.localtime(time.time()))
