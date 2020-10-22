@@ -19,8 +19,8 @@ it log some information on screen		2019/10/30
 ## check_gpu.py
 check gpu's number and gpu's usage		2019/11/14
 
-## xml_2_txt.py
-convert xml.file to txt.file
+## xml_2_txt.py and gen_txt_from_xml.py
+convert xml.file to txt.file    2020/10/22
 
 ## cal_mean_std.py
 calculate the mean and standard value of data
