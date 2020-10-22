@@ -36,3 +36,6 @@ Check the network status and open the login page to connect to the network when 
 
 ## split_train_cal.py
 The dataset will be divided into validation set and training set according to 2:8.
+
+## gen_xml_from_dat.py
+convert file.dat/txt to xml.file    2020/10/22
