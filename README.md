@@ -39,3 +39,6 @@ The dataset will be divided into validation set and training set according to 2:
 
 ## gen_xml_from_dat.py
 convert file.dat/txt to xml.file    2020/10/22
+
+## crop_object_from_xml.py
+expand and crop object frome xml.file to train for self-supervised learning   2020/10/23 
