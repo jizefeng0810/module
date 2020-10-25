@@ -31,8 +31,11 @@ run command by checking whether the process PID ends
 ## Task_timer.py
 run command by setting time
 
-## dir:tSNE
+## dir: tSNE
 Visualize the distribution of two or more data sets
+
+## dir: Network
+some useful network
 
 ## login_szu_net.py
 Check the network status and open the login page to connect to the network when the network is disconnected.    2020/10/18
