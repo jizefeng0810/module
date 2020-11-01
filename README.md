@@ -49,5 +49,8 @@ convert file.dat/txt to xml.file    2020/10/22
 ## crop_object_from_xml.py
 expand and crop object frome xml.file to train for self-supervised learning   2020/10/23 
 
+## crop_object_from_dat.py
+expand and crop object frome dat/txt.file to train for self-supervised learning   2020/11/01 
+
 ## from_folder_gen_json_jzf.py
 generate json format
