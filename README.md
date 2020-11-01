@@ -55,5 +55,5 @@ expand and crop object frome dat/txt.file to train for self-supervised learning 
 ## from_folder_gen_json_jzf.py
 generate json format
 
-# modify_txt_content.py
+## modify_txt_content.py
 change dat/txt.file's content, e.g. modify image path
